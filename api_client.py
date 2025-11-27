@@ -1,6 +1,4 @@
 import requests
-
-
 def fetch_and_display_users(num_users):
     url = "https://jsonplaceholder.typicode.com/users"
     try:
